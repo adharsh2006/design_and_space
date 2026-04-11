@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+elf = "pothole_detector/pothole_detector.ino.elf"
+firmware = "pothole_detector/pothole_detector.ino.hex"
+rfc2217ServerPort = 4000

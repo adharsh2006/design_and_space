@@ -1,0 +1,29 @@
+# Binaries and compiled files
+*.hex
+*.elf
+*.bin
+*.eep
+pothole_detector/*.hex
+pothole_detector/*.elf
+pothole_detector/*.bin
+pothole_detector/*.eep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Project specific
+wokwi-cli.exe
+arduino-cli-bin/
+arduino-cli.zip
+docs/wokwi_serial.log
+docs/potholes_logged.txt
