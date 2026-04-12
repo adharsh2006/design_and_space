@@ -1,7 +1,7 @@
 # 🚧 PotholeGuard AI — Real-Time Edge-AI Pothole Detection System
 
 <p align="center">
-  <img src="docs/demonstration.webp" alt="PotholeGuard AI Dashboard in action" width="100%" />
+  <img src="docs/circuit_diagram.png" alt="PotholeGuard AI Circuit Diagram" width="100%" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 ## 🎬 Demo Video
 
 <p align="center">
-  <img src="docs/demonstration.webp" alt="PotholeGuard AI System Demonstration" width="90%" />
+  <img src="docs/circuit_diagram.png" alt="PotholeGuard AI System - Circuit Diagram & Wokwi Simulation" width="90%" />
 </p>
 
 ### What the Demo Shows
