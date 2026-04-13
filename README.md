@@ -44,10 +44,6 @@
 
 ## 🎬 Demo Video
 
-<p align="center">
-  <img src="docs/circuit_diagram.png" alt="PotholeGuard AI System - Circuit Diagram & Wokwi Simulation" width="90%" />
-</p>
-
 ### What the Demo Shows
 
 The demo video shows the **complete end-to-end working system** — from the Wokwi simulation boots to live pothole events appearing on the dashboard in real time.
